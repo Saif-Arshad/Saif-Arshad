@@ -14,17 +14,15 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-arshad&label=Profile%20views&color=0e75b6&style=flat" alt="saif-arshad" /> </p>
+
 
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saif-Arshad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saif-Arshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-arshad&label=Profile%20views&color=0e75b6&style=flat" alt="saif-arshad" /> </p>
