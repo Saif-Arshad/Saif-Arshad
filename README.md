@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saif Ur Rehman</h1>
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
-![snake animation](https://github.com/Saif-Arshad/Saif-Arshad/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 ## 🌐 Socials:
