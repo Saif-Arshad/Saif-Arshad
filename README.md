@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saif Ur Rehman</h1>
-<h3 align="center"> I'm a MERN Stack developer from Pakistan, super passionate about building awesome web apps. Always up for a challenge and love learning new stuff. Let's create something cool together!</h3>
+### Hi there 👋
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Saif-Arshad/Saif-Arshad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Saif-Arshad/Saif-Arshad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 
 
 ## 🌐 Socials:
