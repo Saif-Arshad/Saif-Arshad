@@ -1,9 +1,4 @@
-<h1 align="center">Hello 👋</h1>
-
-
-
-
-## 🌐 Socials:
+## 🌐 Socials links:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086295243570) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-rehman-professional/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21520078/saif-ur-rehman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/saifurrehmanpro) 
 
 # 💻 Tech Stack:
