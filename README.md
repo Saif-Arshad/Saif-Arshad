@@ -2,7 +2,7 @@
 Hi 👋 My name is Saif Ur Rehman
 ===============================
 
-A software engineer with a passion for creating incredible web applications.
+A  full stack software developer
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [Saif ur Rehman](http://saifwebdev.netlify.app)
